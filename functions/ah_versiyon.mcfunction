@@ -1,0 +1,1 @@
+tellraw @p {"rawtext":[{"text":"§eAntiHile versiyonu: §b6.2.1"}]}

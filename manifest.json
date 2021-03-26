@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§eAntiHile",
+		"description": "§eYouTube: blackfighty Youtube\n§eOmlet Arcade: blackfighty\nDiscord: Oğuzhan#6561",
+		"uuid": "2a2d5aec-8289-4e3e-a4d0-ae7976d67f81",
+		"version": [
+			6,
+			2,
+			1
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d12a973b-84dd-46ae-8fa3-f3919daf6279",
+			"version": [
+				6,
+				2,
+				1
+			]
+		}
+	]
+}
